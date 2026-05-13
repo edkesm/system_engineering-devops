@@ -1,1 +1,1 @@
-Shell basics Alx linux foundations
+Shell basics ALX linux foundations
